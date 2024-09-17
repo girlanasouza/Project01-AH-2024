@@ -1,4 +1,4 @@
-## Projeto Prático - Computação Heterogêneas
+## Projeto Prático - Computação Heterogênea
 
 Alunos
 
